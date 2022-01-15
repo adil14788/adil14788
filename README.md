@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adil14788
-- 👀 I’m interested in Webdevlopment, Opensource ,Machine Learning, AI and anything that fascinates me 
+- 👀 I’m interested in Webdevlopment, Opensource , DevOps , Web 3.0
 - 🌱 I’m currently learning Web devlopment and Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on Web devlopment
+- 💞️ I’m looking to collaborate on DevOps, Web3.0
 - 📫 How to reach me adil58758@gmail.com
 
 <!---
