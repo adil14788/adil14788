@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @adil14788
-- 👀 I’m interested in Webdevlopment, Opensource , DevOps , Web 3.0
-- 🌱 I’m currently learning Web devlopment and Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on DevOps, Web3.0
+- 👋 Hi, I’m @adil14788. I am a student and a blockchain enthusiast.
+- 👀 I’m interested in Webdevlopment, Opensource , Defi , Web 3.0 , NFTs , Smart COntract Devlopment.
+- 🌱 I’m currently learning solidty, smart contracts, dapps, Defi
 - 📫 How to reach me adil58758@gmail.com
 
 <!---
